@@ -122,91 +122,91 @@ TurboPi搭载RGB发光超声波传感器，可以控制灯光变化，并能实�
 ## 2 组装教程
 
 **(1)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble1.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble1.png)
 
 **(2)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble2.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble2.png)
 
 **(3)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble3.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble3.png)
 
 **(4)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble4.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble4.png)
 
 **(5)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble5.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble5.png)
 
 **(6)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble6.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble6.png)
 
 **(7)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble7.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble7.png)
 
 **(8)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble8.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble8.png)
 
 **(9)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble9.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble9.png)
 
 **(10)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble10.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble10.png)
 
 **(11)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble11.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble11.png)
 
 **(12)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble12.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble12.png)
 
 **(13)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble13.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble13.png)
 
 **(14)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble14.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble14.png)
 
 **(15)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble15.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble15.png)
 
 **(16)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble16.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble16.png)
 
 **(17)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble17.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble17.png)
 
 **(18)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble18.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble18.png)
 
 **(19)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble19.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble19.png)
 
 **(20)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble20.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble20.png)
 
 **(21)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble21.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble21.png)
 
 **(22)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble22.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble22.png)
 
 **(23)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble23.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble23.png)
 
 **(24)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble24.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble24.png)
 
 **(25)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble25.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble25.png)
 
 **(26)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble26.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble26.png)
 
 **(27)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble27.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble27.png)
 
 **(28)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble28.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble28.png)
 
 **(29)**
-![Img](../_static/media/turbopi/turbopiassemble/TurboPi-assemble29.png)
+![Img](../_static/media/turbopi/turbopi-assemble/TurboPi-assemble29.png)
 
 ## 3 设备充电、开机及自检
 
