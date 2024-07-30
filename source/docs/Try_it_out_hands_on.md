@@ -104,6 +104,7 @@ iOS 系统：可前往 App Store 搜索“WonderPi”并进行下载安装。
 8) 稍等片刻，主界面会显示 TurboPi 的图标，同时扩展板上的 LED 灯也会常亮。
 
 ![Img](../_static/media/Turbopi-2/1-18.png)
+![Img](../_static/media/Turbopi-1/2-3.png)
 
 9) 长按 APP 中的 TurboPi 图标，可以查看分配给 TurboPi 的 IP 地址和 ID。
 
