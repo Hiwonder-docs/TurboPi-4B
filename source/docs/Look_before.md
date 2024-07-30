@@ -1,8 +1,3 @@
-<style>
-table td{
-    white-space: unset !important;}
-</style>
-
 #  学前先看
 
 ##  1  认识TurboPi视觉小车

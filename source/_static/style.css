@@ -1,4 +1,2 @@
-p>img{
-    display:block;
-    margin:0 auto
-}
+table td{
+    white-space: unset !important;}
