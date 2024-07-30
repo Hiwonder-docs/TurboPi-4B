@@ -7,5 +7,5 @@
    :maxdepth: 2
    :caption: TurboPi-4B
 
-   docs/Look_before.md
-   docs/Try_it_out_hands_on.md
+   docs/look_before_you_leap.md
+   docs/try_it_out_hands_on.md
