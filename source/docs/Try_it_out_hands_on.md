@@ -11,7 +11,7 @@
 
 iOS 系统：可前往 App Store 搜索“WonderPi”并进行下载安装。
 
-![Img](../_static/media/Turbopi-2/1-1.PNG)
+![Img](../_static/media/TurboPi-2/1-1.PNG)
 
 用户可以使用手机 APP“WonderPi”来控制 TurboPi。本节课会讲解如何将 TurboPi 与 APP 建立连接。
 
@@ -41,33 +41,33 @@ iOS 系统：可前往 App Store 搜索“WonderPi”并进行下载安装。
 
 1) 打开手机 APP“**WonderPi**”，依次点击“**初级套件**”、“**TurboPi**”。
 
-![Img](../_static/media/Turbopi-2/1-2.PNG)
+![Img](../_static/media/TurboPi-2/1-2.PNG)
 
 2) 点击界面右下角的“**+**”按钮，选择“**直连模式**”。
 
-![Img](../_static/media/Turbopi-2/1-3.PNG)
+![Img](../_static/media/TurboPi-2/1-3.PNG)
 
 3) 点击“**去连接设备热点**”按键，前往设置界面，连接 TurboPi 生成的热点，连接 时需输入密码“**hiwonder**”。
 
-![Img](../_static/media/Turbopi-2/1-4.PNG)
+![Img](../_static/media/TurboPi-2/1-4.PNG)
 
-![Img](../_static/media/Turbopi-2/1-5.PNG)
+![Img](../_static/media/TurboPi-2/1-5.PNG)
 
 4) 连接成功后返回手机 APP。
 
-![Img](../_static/media/Turbopi-2/1-6.PNG)
+![Img](../_static/media/TurboPi-2/1-6.PNG)
 
-**注意：iOS 系统下，需等待手机状态栏显示 Wi-Fi 图标后再返回 APP，否则可能会搜索不到设备。若出现搜索不到设备的情况，可点击 APP 界面右上方的刷新图标 ![Img](../_static/media/Turbopi-2/1-7.PNG)。**
+**注意：iOS 系统下，需等待手机状态栏显示 Wi-Fi 图标后再返回 APP，否则可能会搜索不到设备。若出现搜索不到设备的情况，可点击 APP 界面右上方的刷新图标 ![Img](../_static/media/TurboPi-2/1-7.PNG)。**
 
  5) 此时 APP 将自动连接设备，稍等片刻，当搜索到下图所示图标时，即为连接成功。 
 
-![Img](../_static/media/Turbopi-2/1-8.PNG)
+![Img](../_static/media/TurboPi-2/1-8.PNG)
 
 **注意：若出现“网络不可用，是否继续连接”的提示弹窗，单击“保持连接”按键即** **可。** 
 
 6) 点击上图的 TurboPi 图标即可进入玩法模式选择界面，如下所示：
 
-![Img](../_static/media/Turbopi-2/1-9.PNG)
+![Img](../_static/media/TurboPi-2/1-9.PNG)
 
 如需了解各个玩法的具体使用方法，可查看“**2 手机 APP 试玩**”文档。
 
@@ -75,43 +75,43 @@ iOS 系统：可前往 App Store 搜索“WonderPi”并进行下载安装。
 
 1) 断开之前 TurboPi 直连模式下的热点，将手机连接至一个 Wi-Fi，这里以连接名 称为：“**Hiwonder**”的 Wi-Fi 为例。
 
-![Img](../_static/media/Turbopi-2/1-10.PNG)
+![Img](../_static/media/TurboPi-2/1-10.PNG)
 
 2) 连接完成之后，打开“**WonderPi**”，依次点击“**初级套件**”、“**TurboPi**”。
 
-![Img](../_static/media/Turbopi-2/1-11.PNG)
+![Img](../_static/media/TurboPi-2/1-11.PNG)
 
 3) 然后单击右下角“**+**”按钮，选择“**局域网模式**”。
 
-![Img](../_static/media/Turbopi-2/1-12.PNG)
+![Img](../_static/media/TurboPi-2/1-12.PNG)
 
 4) 此时 APP 会提示输入你所连接 Wi-Fi 的密码（请确认密码是否输入正确，如果输 入错误会导致连接失败），输入完成后点击“**好的**”。
 
-![Img](../_static/media/Turbopi-2/1-13.PNG)
+![Img](../_static/media/TurboPi-2/1-13.PNG)
 
 5) 再点击“**去连接设备热点**”。
     
-![Img](../_static/media/Turbopi-2/1-14.PNG)
+![Img](../_static/media/TurboPi-2/1-14.PNG)
 
 6) 此时手机会自动跳转到 Wi-Fi 连接页面，找到“**HW**”开头的热点，输入密码 “**hiwonder**”连接它。连接完成之后点击“**返回**”按钮。
 
-![Img](../_static/media/Turbopi-2/1-15.PNG)
+![Img](../_static/media/TurboPi-2/1-15.PNG)
 
 7) 连接完成后，可以看到 APP 已经开始自动配置网络了。
 
-![Img](../_static/media/Turbopi-2/1-17.PNG)
+![Img](../_static/media/TurboPi-2/1-17.PNG)
 
 8) 稍等片刻，主界面会显示 TurboPi 的图标，同时扩展板上的 LED 灯也会常亮。
 
-![Img](../_static/media/Turbopi-2/1-18.PNG)
+![Img](../_static/media/TurboPi-2/1-18.PNG)
 ![Img](../_static/media/Turbopi-1/2-3.PNG)
 
 9) 长按 APP 中的 TurboPi 图标，可以查看分配给 TurboPi 的 IP 地址和 ID。
 
-![Img](../_static/media/Turbopi-2/1-19.PNG)
+![Img](../_static/media/TurboPi-2/1-19.PNG)
 
 10) 点击 TurboPi 的图标，就可以进入到玩法页面了。
 
-![Img](../_static/media/Turbopi-2/1-20.PNG)
+![Img](../_static/media/TurboPi-2/1-20.PNG)
 
 如需了解各个玩法的具体使用方法，可查看“**2 手机 APP 试玩**”文档。
