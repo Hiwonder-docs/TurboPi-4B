@@ -9,3 +9,4 @@
 
    docs/look_before_you_leap.md
    docs/try_it_out_hands_on.md
+   docs/common_linux_instructions.md
