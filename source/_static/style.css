@@ -1,2 +1,13 @@
 table td{
     white-space: unset !important;}
+
+.rst-content section ol li{
+    margin-bottom: 15px;}
+
+table{
+    min-width: 50%;
+}
+
+#id1 > section{
+    padding-bottom: 50px;
+}
