@@ -326,19 +326,17 @@ VNC 是一款图形化远程控制软件。通过连接树莓派的 Wi-Fi 热点
 1) TurboPi 开机成功后，默认连接模式是 AP 直连模式，此时将会产生一个以“**HW**” 开头的热点，我们可以在电脑端搜索并连接这个热点，如下图所示：
 
 <p style="text-align: center;">
-![Img](../_static/media/turbopi_1/4-7.png)
+<img src="../_static/media/turbopi_1/4-7.png" style="width:0.62569in;height:0.71042in" alt="" />
 </p>
 
 2) 点击连接，输入密码“**hiwonder**”。
 
 <p style="text-align: center;">
-
-![Img](../_static/media/turbopi_1/4-8.png)
+<img src="../_static/media/turbopi_1/4-8.png" style="width:0.62569in;height:0.71042in" alt="" />
 </p>
 
 <p style="text-align: center;">
-
-![Img](../_static/media/turbopi_1/4-9.png)
+<img src="../_static/media/turbopi_1/4-9.png" style="width:0.62569in;height:0.71042in" alt="" />
 </p>
 
 3) 连接成功后，打开 VNC Viewer，在地址栏输入树莓派默认的 IP 地址：**192.168. 149.1**，按下回车。如果出现安全连接相关的提示框，点击“**Continue**”按键即可。
@@ -422,7 +420,7 @@ VNC 是一款图形化远程控制软件。通过连接树莓派的 Wi-Fi 热点
 
 ![Img](../_static/media/turbopi_1/5-1.png)
 
-1) 其中我们主要看这个![Img](../_static/media/turbopi_1/5-2.png)图标。双击后，点击“**执行**”。
+1) 其中我们主要看这个<img src="../_static/media/turbopi_1/5-2.png" style="width:45px"  />图标。双击后，点击“**执行**”。
 
 ![Img](../_static/media/turbopi_1/5-3.png)
 
