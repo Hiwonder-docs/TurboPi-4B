@@ -325,13 +325,21 @@ VNC 是一款图形化远程控制软件。通过连接树莓派的 Wi-Fi 热点
 
 1) TurboPi 开机成功后，默认连接模式是 AP 直连模式，此时将会产生一个以“**HW**” 开头的热点，我们可以在电脑端搜索并连接这个热点，如下图所示：
 
+<p style="text-align: center;">
 ![Img](../_static/media/turbopi_1/4-7.png)
+</p>
 
 2) 点击连接，输入密码“**hiwonder**”。
 
+<p style="text-align: center;">
+
 ![Img](../_static/media/turbopi_1/4-8.png)
+</p>
+
+<p style="text-align: center;">
 
 ![Img](../_static/media/turbopi_1/4-9.png)
+</p>
 
 3) 连接成功后，打开 VNC Viewer，在地址栏输入树莓派默认的 IP 地址：**192.168. 149.1**，按下回车。如果出现安全连接相关的提示框，点击“**Continue**”按键即可。
 
@@ -353,18 +361,60 @@ VNC 是一款图形化远程控制软件。通过连接树莓派的 Wi-Fi 热点
 
 下表为常用功能说明：
 
-| **图标**                                          | **功能**                                                                                                 |
-|-------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| ![Img](../_static/media/turbopi_1/4-14.png) | 应用菜单，点击之后可选择不同应用。<br>![Img](../_static/media/turbopi_1/4-15.png)                                   |
-| ![Img](../_static/media/turbopi_1/4-16.png) | 系统自带浏览器                                                                                                |
-| ![Img](../_static/media/turbopi_1/4-17.png) | 文件管理器                                                                                                  |
-| ![Img](../_static/media/turbopi_1/4-18.png) | LX终端，点击之后，可在打开界面输入命令 行。                                                                                |
-| ![Img](../_static/media/turbopi_1/4-19.png) | 回收站，可找回近期删除的文件。                                                                                        |
-| ![Img](../_static/media/turbopi_1/4-20.png) | 上位机软件，可通过此软件调整云台舵机位 置、调节颜色阈值。                                                                          |
-| ![Img](../_static/media/turbopi_1/4-21.png) | 点击可使系统桌面显示全屏或退出全屏。                                                                                     |
-| ![Img](../_static/media/turbopi_1/4-22.png) | 退出全屏。                                                                                                  |
-| ![Img](../_static/media/turbopi_1/4-23.png) | 电源，点击可选择关机、重启、退出<br>![Img](../_static/media/turbopi_1/4-24.png)                                    |
-| ![Img](../_static/media/turbopi_1/4-25.png) | 文件快速传输，点击之后可将电脑本地文件传输至TurboPi系统的桌面，也可将TurboPi 系统内的文件传输至电脑端，但需要注意：必须先执行电脑端文件传至树莓派后，才可 进行树莓派端传输至电脑端。 |
+<table class="docutils" border="1">
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 70%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>图标</strong></td>
+<td style="text-align: center;"><strong>功能</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-14.png" style="width:0.625in;height:0.52083in" alt="2" /></td>
+<td style="text-align: center;"><p>应用菜单，点击之后可选择不同应用。</p>
+<p><img src="../_static/media/turbopi_1/4-15.png" style="width:0.68125in;height:1.80833in" alt="应用菜单" /></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-16.png" style="width:0.62569in;height:0.56806in" alt="3" /></td>
+<td style="text-align: center;">系统自带浏览器</td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-17.png" style="width:0.62569in;height:0.52708in" alt="4" /></td>
+<td style="text-align: center;">文件管理器</td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-18.png" style="width:0.625in;height:0.42708in" alt="5" /></td>
+<td style="text-align: center;">LX终端，点击之后，可在打开界面输入命令行。</td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-19.png" style="width:0.62569in;height:0.71042in" alt="D:\Work\TurboPi\TurboPi图片素材\3.3.6.png3.3.6" /></td>
+<td style="text-align: center;">回收站，可找回近期删除的文件。</td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-20.png" style="width:0.62569in;height:0.60833in" alt="D:\Work\TurboPi\TurboPi图片素材\3.3.7.png3.3.7" /></td>
+<td style="text-align: center;">上位机软件，可通过此软件调整云台舵机位置、调节颜色阈值。</td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-21.png" style="width:0.30208in;height:0.42708in" alt="8" /></td>
+<td style="text-align: center;">点击可使系统桌面显示全屏或退出全屏。</td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-22.png" style="width:0.35417in;height:0.35417in" alt="9" /></td>
+<td style="text-align: center;">退出全屏。</td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-23.png" style="width:0.35417in;height:0.45347in" alt="10" /></td>
+<td style="text-align: center;"><p>电源，点击可选择关机、重启、退出</p>
+<p><img src="../_static/media/turbopi_1/4-24.png" style="width:2.28472in;height:1.19583in" /></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="../_static/media/turbopi_1/4-25.png" style="width:0.35417in;height:0.40347in" alt="12" /></td>
+<td style="text-align: center;">文件快速传输，点击之后可将电脑本地文件传输至TurboPi系统的桌面，也可将TurboPi系统内的文件传输至电脑端，但需要注意：必须先执行电脑端文件传至树莓派后，才可进行树莓派端传输至电脑端。</td>
+</tr>
+</tbody>
+</table>
 
 ### 4.4 桌面分布
 
