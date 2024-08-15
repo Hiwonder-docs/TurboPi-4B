@@ -6,24 +6,24 @@
 
 下表为Linux常用的一些指令。
 
-| 指令名         | 英文全称/翻译     | 意义        |
-|-------------|-------------|-----------|
-| Ls          | List/列出     | 列出当前目录下的文件 |
-| cd          | Change Directory/更改目录 | 切换路径      |
-| pwd         | Print Working Directory/显示工作目录 | 显示所在目录    |
-| ping        | Packet Internet Groper/因特网包探索器 | 测试网络连接    |
-| shutdown    | Shut down/关掉 | 用于关机      |
-| reboot      | Reboot/重启   | 用于重启      |
-| cp          | Copy/复制     | 用于复制      |
-| rm          | Remove/去掉   | 删除        |
-| mkdir       | Make directory/创建文件夹 | 创建文件夹     |
-| man command | Manual/手册   | 显示command的帮助信息 |
-| echo        | Echo/回显     | 将输入的内容回显到终端界面上 |
-| sudo        | Superuser do/超级用户进行 | 以系统管理员身份执行指令 |
-| clear       | Clear/清除    | 清除终端上的信息  |
-| Find        | Find/查找     | 查找功能      |
-| mv          | Move/移动     | 通过移动文件来实现重命名 |
-| date        | Date/日期     | 读取系统的日期/时间 |
+|      指令名      |             英文全称/翻译             |       意义        |
+|:-------------:|:-------------------------------:|:---------------:|
+|      ls       |             List/列出             |   列出当前目录下的文件    |
+|      cd       |      Change Directory/更改目录      |      切换路径       |
+|      pwd      | Print Working Directory/显示工作目录  |     显示所在目录      |
+|     ping      | Packet Internet Groper/因特网包探索器  |     测试网络连接      |
+|   shutdown    |          Shut down/关掉           |      用于关机       |
+|    reboot     |            Reboot/重启            |      用于重启       |
+|      cp       |             Copy/复制             |      用于复制       |
+|      rm       |            Remove/去掉            |       删除        |
+|     mkdir     |      Make directory/创建文件夹       |      创建文件夹      |
+|  man command  |            Manual/手册            | 显示command的帮助信息  |
+|     echo      |             Echo/回显             | 将输入的内容回显到终端界面上  |
+|     sudo      |       Superuser do/超级用户进行       |  以系统管理员身份执行指令   |
+|     clear     |            Clear/清除             |    清除终端上的信息     |
+|     find      |             Find/查找             |      查找功能       |
+|      mv       |             Move/移动             |  通过移动文件来实现重命名   |
+|     date      |             Date/日期             |   读取系统的日期/时间    |
 
 我们可以看到，这些指令基本是基于英文单词全称或简称组成的，如果你有一些英文基础，相信指令记起来会更加容易。另外需要说明一点，在Linux内是是严格区分大小写的，包括指令中大写和小写也是不同的。
 
@@ -32,6 +32,10 @@
 指令+选项+操作对象这三部分构成了一个标准的Linux命令，其中命令部分需要输入命令的名称，选项部分定义命令的执行特性，这一特性可以有长短两个选项。
 
 比如像长选项用“ --”引导，后面跟一个完整的单词，如--help；短选项用‘**-**’引导，后面跟单个的字符， 如 -a 。多个短选项可以组合使用，例如：-h -l -a == -hla，但是长选项不能组合使用，如--help后面就不能再跟另外一个单词了。例如下图所示：
+
+```Linux
+hiwonder@ubuntu:~$ ls -l-a-h /boot/
+```
 
 <img src="../_static/media/turbopi_4/image1.png" style="width:5.07292in;height:0.42708in" />
 

@@ -1,121 +1,78 @@
 #  学前先看
 
-##  1  认识TurboPi视觉小车
+## 1 认识 TurboPi 视觉小车
 
 ### 1.1 产品介绍
 
-TurboPi是一款基于树莓派开发的智能视觉机器人，它采用麦克纳姆轮底盘，并搭载高清摄像头，配合OpenCV能实现颜色识别、目标追踪、智能巡线、二维码识别等功能。
+TurboPi是一款基于树莓派开发的智能视觉机器人，它采用麦克纳姆轮底盘，并搭载 高清摄像头，配合OpenCV能实现颜色识别、目标追踪、智能巡线、二维码识别等功能。
 
-TurboPi搭载RGB发光超声波传感器，可以控制灯光变化，并能实现智能避障。此外，它还支持拓展多种传感器，实现更多感知的融合。
-<p align="center">
-<img src="../_static/media/turbopi_1/1-1.png">
-</p>
+TurboPi 搭载RGB发光超声波传感器，可以控制灯光变化，并能实现智能避障。此外， 它还支持拓展多种传感器，实现更多感知的融合。
 
-### 1.2 硬件介绍
+### 1.2 产品清单
 
-#### 1.2.1  硬件连接系统框图
-![Img](../_static/media/turbopi_1/1-2.png)
+<table class="docutils-nobg" border="1">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 23%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr style="height:50px">
+<td colspan="4" style="text-align: center;vertical-align: middle;"><strong>TurboPi机器人发货清单(树莓派4B)</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image1.png" style="width:1.39097in;height:1.57292in" alt="清单 - 副本 (1)" /></p>
+<p>Turbopi机器人支架</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image2.png" style="width:1.37778in;height:0.99306in" alt="树莓派4.880" /></p>
+<p>树莓派4B主板(选配)</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image3.png" style="width:1.38611in;height:1.22083in" alt="清单 - 副本 (6)" /></p>
+<p>树莓派4B扩展板</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image4.png" style="width:1.39375in;height:1.13056in" alt="清单 - 副本 (7)" /></p>
+<p>高清130°广角摄像头</p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image5.png" style="width:1.39444in;height:1.01736in" alt="清单 - 副本 (9)" /></p>
+<p>防堵转舵机</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image6.png" style="width:1.39097in;height:0.98264in" alt="清单 - 副本 (10)" /></p>
+<p>4路巡线传感器</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image7.png" style="width:1.3875in;height:0.81389in" alt="清单 - 副本 (11)" /></p>
+<p>TT马达</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image8.png" style="width:1.38889in;height:0.82014in" alt="清单 - 副本 (12)" /></p>
+<p>发光超声波</p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image9.png" style="width:1.39028in;height:1.01458in" alt="清单 - 副本 (13)" /></p>
+<p>18650电池</p>
+<p>（1800mAh）</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image10.png" style="width:1.38889in;height:1.05556in" alt="清单 - 副本 (14)" /></p>
+<p>18650电池盒</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image11.png" style="width:1.38264in;height:0.67083in" alt="清单 - 副本 (15)" /></p>
+<p>电池充电器+USB线</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image12.png" style="width:1.39097in;height:0.71667in" alt="清单 - 副本 (8)" /></p>
+<p>USB数据线</p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image13.png" style="width:1.39167in;height:0.94444in" alt="清单 - 副本 (16)" /></p>
+<p>黄色麦克纳姆轮</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image14.png" style="width:1.39097in;height:0.93403in" alt="树莓派4.881" /></p>
+<p>散热片</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image15.png" style="width:1.38958in;height:0.69653in" alt="清单 - 副本 (17)" /></p>
+<p>红/绿/蓝彩球各一个</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image16.png" style="width:1.38681in;height:0.65208in" alt="清单 - 副本 (18)" /></p>
+<p>4PIN连接线(20cm)</p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image17.png" style="width:1.38958in;height:1.04236in" alt="清单 - 副本 (4)" /></p>
+<p>32G SD卡</p></td>
+<td style="text-align: center;"><p><img src="../_static/media/turbopi_1/image18.png" style="width:1.06667in;height:1.09097in" alt="清单 - 副本 (3)" /></p>
+<p>读卡器</p></td>
+<td colspan="2" style="text-align: center;"><p><img src="../_static/media/turbopi_1/image19.png" style="width:1.38889in;height:1.14167in" alt="清单 - 副本 (19)" /></p>
+<p>螺丝刀及螺丝螺母配件包</p></td>
+</tr>
+</tbody>
+</table>
 
-#### 1.2.2  摄像头
-
-摄像头作为机器人结构中最重要的组件之一，类似于人类眼睛。本款产品用的是130度广角单目相机。
-
-<p align="center">
-<img src="../_static/media/turbopi_1/1-3.png" alt="Image" width="300" />
-</p>
-
-本款相机分辨率为30W（640*480），关于相机更多参数可前往“**4 硬件资料** ”进行查看。
-
-#### 1.2.3  树莓派主控
-
-本款产品采用的是**树莓派4B+扩展板**。树莓派4B主板是一种小型的单板计算机，具有基本的计算能力，通过各种接口（如HDMI、USB、GPIO）支持多种外围设备的连接，使其成为学习编程、玩转各种创意项目的理想选择。
-
-树莓派扩展板提供4路直流电机接口，同时板载按键、有源蜂鸣器、RGB灯、PWM/总线舵机接口等，搭配树莓派主控下能更好的进行二次开发与拓展。
-
-<p align="center">
-<img src="../_static/media/turbopi_1/1-4.png" alt="Image" width="300" />
-</p>
-
-主板上安装的是 Debian 11的系统，关于树莓派的课程可前往 **“4 硬件资料”** 查看。
-
-#### 1.2.4  发光超声波
-
-芯片内部集成超声波发射电路、超声波接收电路、数字处理电路等。模块采用 IIC 通信接口，能通过IIC通信进行读取超声波传感器测量的距离。
-
-<p align="center">
-<img src="../_static/media/turbopi_1/1-5.png" alt="Image" width="200" />
-</p>
-
-- **引脚说明**
-
-| 引脚 | 引脚说明   |
-| ---- | ---------- |
-| 5V   | 电源输入   |
-| GND  | 电源地     |
-| SDA  | SDA 数据线 |
-| SCL  | SCL时钟线  |
-
-关于更多参数可前往“**4 硬件资料**”进行查看。
-
-#### 1.2.5  4路巡线传感器
-
-四路巡线传感器是智能小车或者机器人提供一种多用途的红外线探测系统解决方案。它有四个探头，每个探头都有一个红外发射器和一个红外接收器，由于白色对红外反射强，黑色对红外反射弱，故此模块可用于检测黑、白，具有检测速度快、适应性良好等优点，可应用于智能小车或者机器人的巡线运动，可以巡较为复杂的线路。
-
-- **引脚说明**
-
-| **引脚** | **引脚说明** |
-| -------- | ------------ |
-| 5V       | 电源输入     |
-| GND      | 电源地       |
-| SDA      | SDA 数据线   |
-| SCL      | SCL时钟线    |
-
-关于更多参数可前往“**4 硬件资料**”进行查看。
-
-<p align="center">
-<img src="../_static/media/turbopi_1/1-6.png">
-</p>
-
-#### 1.2.6 云台舵机
-
-云台部分采用的是LFD-01舵机，这款舵机具有控制精度高、线性度好、响应速度快和扭力大等特点，常用于各种仿生机器人的角度关节设计。
-<p align="center">
-<img src="../_static/media/turbopi_1/1-7.png" alt="Image" width="300" />
-</p>
-
-- **引脚说明**
-
-<p align="center">
-<img src="../_static/media/turbopi_1/1-8.png" alt="Image" width="300" />
-</p>
-
-| **引脚** | **引脚说明** |
-| -------- | ------------ |
-| 黄色接线 | 信号线       |
-| 红色接线 | 电源正极     |
-| 棕色接线 | 地线         |
-
-关于更多参数可前往“**4 硬件资料**”进行查看。
-
-#### 1.2.7 直流电机
-
-电机为机器人的动力模块，本款产品使用的是减速比1:120的直流减速电机，其电压范围为DC3V-6V，空载电流为0.14A-0.17A（DC3V-6V)，输出功率0.6W，关于更多参数可前往“**第7章 拓展课程**”进行查看。
-<p align="center">
-<img src="../_static/media/turbopi_1/1-9.png" alt="Image" width="200" />
-</p>
-
-#### 1.2.8 锂电池
-
-本款产品采用的是两节3.7V的18650锂电池，电池容量为1800mAh，关于其充电方法可前往“第3章 动手组装及调试/第2课 设备充电、开机及自检”查看。
-<p align="center">
-<img src="../_static/media/turbopi_1/1-10.png">
-</p>
-
-
-
-###  1.3.产品清单
-
-![Img](../_static/media/turbopi_1/1-11.png)
 
 ## 2 组装教程
 
